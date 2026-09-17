@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**luiggirafaelramosdasilva08-lab/luiggirafaelramosdasilva08-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante da UFRGS
 
-Here are some ideas to get you started:
+💻 Técnico em Desenvolvimento de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+📚 Estudando Desenvolvimento de Software
+💡 Aprendendo programação e tecnologia
+🎯 Buscando evoluir minhas habilidades todos os dias
+🛠️ Tecnologias que estou aprendendo
+HTML
+CSS
+JavaScript
+Git e GitHub
+📊 Objetivo
+
+Continuar aprendendo, desenvolver projetos e crescer na área de tecnologia.
