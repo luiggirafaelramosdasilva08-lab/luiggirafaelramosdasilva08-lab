@@ -14,5 +14,4 @@ CSS
 JavaScript
 Git e GitHub
 📊 Objetivo
-
 Continuar aprendendo, desenvolver projetos e crescer na área de tecnologia.
