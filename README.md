@@ -12,5 +12,4 @@ Tecnologias que estou aprendendo
 HTML
 CSS
 JavaScript
-Git e GitHubObjetivo:
 Continuar aprendendo, desenvolver projetos e crescer na área de tecnologia.
