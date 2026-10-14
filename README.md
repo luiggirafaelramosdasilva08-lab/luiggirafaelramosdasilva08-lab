@@ -2,7 +2,7 @@
 
 🎓 Estudante da UFRGS
 
-💻 Técnico em Desenvolvimento de Software
+💻 Técnico em Desenvolvimento de Software-Senac
 
 Sobre mim:
 Estudando Desenvolvimento de Software
